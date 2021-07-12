@@ -1,0 +1,88 @@
+{
+    "style.css": [
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Jul 12 2021 20:14:28",
+            "keyStrokeInfo": "\r\n",
+            "position": "15,2"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 5,
+            "keyStrokeTimeStamp": "Mon Jul 12 2021 20:15:23",
+            "keyStrokeInfo": "ul li {\r\n  margin-bottom: 20px;\r\n  display: flex;\r\n  align-items: center;\r\n}",
+            "position": "16,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Jul 12 2021 20:15:37",
+            "keyStrokeInfo": "\r\n  ",
+            "position": "16,8"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Mon Jul 12 2021 20:15:38",
+            "keyStrokeInfo": "text-align: justify;font-family:verdana;background-color:powderblue;color:grey;",
+            "position": "17,3"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Jul 12 2021 20:15:46",
+            "keyStrokeInfo": "",
+            "position": "17,43"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Jul 12 2021 20:15:52",
+            "keyStrokeInfo": "\r\n  ",
+            "position": "17,23"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Jul 12 2021 20:16:26",
+            "keyStrokeInfo": "",
+            "position": "14,23"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Jul 12 2021 20:16:33",
+            "keyStrokeInfo": "",
+            "position": "18,3"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Jul 12 2021 20:16:35",
+            "keyStrokeInfo": "",
+            "position": "14,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Jul 12 2021 20:16:37",
+            "keyStrokeInfo": ";",
+            "position": "14,22"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Jul 12 2021 20:16:41",
+            "keyStrokeInfo": "",
+            "position": "8,21"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Jul 12 2021 20:16:45",
+            "keyStrokeInfo": "",
+            "position": "11,23"
+        }
+    ]
+}
