@@ -18,33 +18,15 @@ h1{
   font-family:'Courier New', sans-serif;
   
 }
-.topnav {
-  overflow: hidden;
-  background-color: rgb(20, 143, 137);
-  float:right;
-  color:whitesmoke;
-  font-family:'Trebuchet MS', sans-serif;
 
-  
-}
 a{
-
-  text-decoration: none;
-}
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 20px 14px;
-  text-decoration: none;
-  font-size: 20px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: rgb(20, 143, 137);
+  color:white;
+  padding: 20px 10px;
   
+  text-decoration: none;
 }
+
 
 h2 {
   text-align:center;
@@ -61,6 +43,7 @@ h3{
 p{
   text-align: justify;
   font-family: "Raleway", sans-serif;
+  
 }
 
 ul li {
@@ -73,11 +56,7 @@ ul li {
 * {box-sizing:border-box}
 
 /* Container for skill bars */
-.container {
-  width: 50%; /* Full width */
-  background-color: #ddd; /* Grey background */
-  border-radius: 10px;
-}
+
 
 .skills {
   text-align: right; /* Right-align text */
@@ -93,5 +72,7 @@ ul li {
 
 
 
+img{
 
+}
 
